@@ -1,4 +1,6 @@
-# AWS EKS 
+# AWS EKS Deployment test app
+
+<img width="1106" alt="eks deployed prod" src="https://github.com/user-attachments/assets/c6d52890-4d83-4e1c-89eb-27b284904702">
 
 ## Introduction
 
